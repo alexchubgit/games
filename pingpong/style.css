@@ -1,0 +1,15 @@
+#canvas {
+    width: 480px;
+    height: 320px;
+    border: 1px solid #eee;
+    background-color: #eee;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    /* background-image: url(gorillaz.png); */
+    /* background-size: contain; */
+}
+
+h1{
+    text-align: center;
+}
